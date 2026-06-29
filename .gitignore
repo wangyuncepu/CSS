@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.obsidian/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output
+dist/
+releases/
+*.zip
+
+# Agent config (local overrides)
+CLAUDE.md
+AGENTS.md
+SOURCE_OF_TRUTH.md
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Logs
+*.log
