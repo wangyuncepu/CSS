@@ -18,11 +18,10 @@
 ## 安装
 
 ```bash
+# 进入项目
+aisc run
 # 复制到项目
-cp -r 需求评分 /your-project/.claude/skills/
-
-# 或全局安装
-cp -r 需求评分 ~/.claude/skills/
+git clone https://github.com/wangyuncepu/CSS.git .claude/skills/dbs
 ```
 
 ## 许可
